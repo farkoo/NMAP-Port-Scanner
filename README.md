@@ -17,5 +17,22 @@ This program supports five scanning methods:
  $ python3 portScanner.py -t nmap.org -p 0-100 -s CS -d 3
  ```
 ## Requirement
-I used Pycharm Pro for this program.
+I used Pycharm Pro for this program
 
+## Support:
+
+
+***Contact me @:***
+
+e-mail: 
+
+* farzanehkoohestani2000@gmail.com
+
+telegram id: 
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/fark00/NMAP-Port-Scanner/blob/master/LICENSE)
+&#0169;
+[Farzaneh Koohestani](https://github.com/fark00)
