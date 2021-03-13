@@ -13,7 +13,6 @@ This program supports five scanning methods:
 
  ## Usage
  
- $ 
  ```
  python3 portScanner.py -t nmap.org -p 0-100 -s CS -d 3
  ```
