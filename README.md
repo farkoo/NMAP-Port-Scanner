@@ -14,8 +14,7 @@ This program supports five scanning methods:
  ## Usage
  
  ```
- &#0036;
-  python3 portScanner.py -t nmap.org -p 0-100 -s CS -d 3
+ &#0036; python3 portScanner.py -t nmap.org -p 0-100 -s CS -d 3
  ```
 ## Requirement
 I used Pycharm Pro for this program
